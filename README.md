@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Estudiante de Ingeniería Informática | Desarrollador en Formación
 
-¡Bienvenido a mi portafolio! Soy estudiante de 6to semestre apasionado por el desarrollo de software y la resolución de problemas. Actualmente estoy enfocado en mejorar mis habilidades en Backend / Desarrollo Web / Ciencia de Datos.
+¡Bienvenido a mi portafolio! Soy estudiante de 7mo semestre apasionado por el desarrollo de software y la resolución de problemas. Actualmente estoy enfocado en mejorar mis habilidades en Backend / Desarrollo Web / Ciencia de Datos.
 
 ---
 
